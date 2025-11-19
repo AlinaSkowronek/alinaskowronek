@@ -13,8 +13,8 @@ I am particularly passionate about artificial intelligence and robotics, and I a
 ## 🔍 I am currently working on...
 * Implementing an AI agent to play Mancala
 * Customizing the XLeRobot platform for use in future robotics courses
-* Documenting the complete setup and calibration process on macOS
-* Developing initial move logic for the robot's Swedish wheels
+* Documenting the setup and calibration process on macOS
+* Setting up a repository on Jetson for customized XLeRobot
 
 
 # 💻 Tech Stack:
