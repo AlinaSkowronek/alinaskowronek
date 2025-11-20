@@ -31,9 +31,6 @@ I am particularly passionate about artificial intelligence and robotics, and I a
 [![](https://visitcount.itsvg.in/api?id=alinaskowronek&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-
-
 
 <!--
 **AlinaSkowronek/alinaskowronek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
